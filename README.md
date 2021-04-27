@@ -1,3 +1,3 @@
-## Ary (@coatt)
+# Ary (@coatt)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=p2tdqxrqbsqv47n63yfp655kv&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=p2tdqxrqbsqv47n63yfp655kv&redirect=true)
+- I'm a Roblox Game Developer based in Canada, working on games and also contributing to the open source space.

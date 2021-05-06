@@ -3,7 +3,7 @@
 - I'm a Roblox Game Developer based in Canada, working on games and also contributing to the open source space.
 ---
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coatt&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coatt&theme=dark&show_icons=true)
 
 ## Links
 - [Twitter](https://twitter.com/coatns)
